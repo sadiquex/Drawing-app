@@ -4,3 +4,5 @@
 * Mouse events are used to implement the drawings
 * We're able to change the tool's colour and size while drawing
 * 
+
+[Live Preview](https://sadiquex.github.io/Drawing-app/)
